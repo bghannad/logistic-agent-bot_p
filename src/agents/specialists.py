@@ -19,11 +19,12 @@ import os
 from typing import Annotated
 
 from dotenv import load_dotenv
-from langchain_core.messages import HumanMessage, SystemMessage, ToolMessage
+from langchain_core.messages import HumanMessage, ToolMessage
 from langchain_core.tools import tool
 from langchain_openai import ChatOpenAI
 from langgraph.prebuilt import InjectedState
 
+from agents.prompts import get_prompt_template
 from agents.tools import check_shipment_status
 from retrieval.retrieve import retrieve
 from retrieval.search import HybridIndex
@@ -43,23 +44,17 @@ def _get_index() -> HybridIndex:
 
 def tracking_agent_run(user_message: str) -> str:
     llm = ChatOpenAI(model=MODEL, temperature=0).bind_tools([check_shipment_status])
-    system = SystemMessage(content=(
-        "You are the tracking specialist for a delivery company's support chatbot. "
-        "You have one tool, check_shipment_status(tracking_ref), which looks up a "
-        "real shipment's current status. Call it only if the customer gave you a "
-        "tracking number; if they didn't, say so plainly instead of guessing or "
-        "asking the tool to guess. Answer in 2-4 sentences, grounded only in what "
-        "the tool actually returned."
-    ))
-    messages = [system, HumanMessage(content=user_message)]
-    response = llm.invoke(messages)
+    chain = get_prompt_template("tracking") | llm
+
+    messages = [HumanMessage(content=user_message)]
+    response = chain.invoke({"messages": messages})
 
     if response.tool_calls:
         messages.append(response)
         for call in response.tool_calls:
             result = check_shipment_status.invoke(call["args"])
             messages.append(ToolMessage(content=str(result), tool_call_id=call["id"]))
-        response = llm.invoke(messages)
+        response = chain.invoke({"messages": messages})
 
     return response.content
 
@@ -69,29 +64,15 @@ def compliance_agent_run(user_message: str) -> str:
     context = "\n\n".join(f"[{c['chunk_id']}] {c['text']}" for c in chunks)
 
     llm = ChatOpenAI(model=MODEL, temperature=0)
-    system = SystemMessage(content=(
-        "You are the customs/compliance specialist for a delivery company's support "
-        "chatbot. Answer the customer's question using ONLY the retrieved excerpts "
-        "below — do not use outside knowledge. Cite which chunk_id(s) support each "
-        "claim. If the excerpts don't actually answer the question, say so honestly "
-        "instead of filling the gap yourself.\n\n"
-        f"RETRIEVED EXCERPTS:\n{context}"
-    ))
-    response = llm.invoke([system, HumanMessage(content=user_message)])
+    chain = get_prompt_template("compliance") | llm
+    response = chain.invoke({"messages": [HumanMessage(content=user_message)], "context": context})
     return response.content
 
 
 def escalation_agent_run(conversation_summary: str) -> str:
     llm = ChatOpenAI(model=MODEL, temperature=0)
-    system = SystemMessage(content=(
-        "You are the escalation specialist for a delivery company's support "
-        "chatbot. Given the conversation so far, decide whether this genuinely "
-        "needs a human agent — e.g. suspected fraud, a lost package the other "
-        "specialists couldn't resolve, or a customer who clearly needs a person — "
-        "or whether the bot can keep handling it. Respond with one line, ESCALATE "
-        "or CONTINUE, followed by a short reason."
-    ))
-    response = llm.invoke([system, HumanMessage(content=conversation_summary)])
+    chain = get_prompt_template("escalation") | llm
+    response = chain.invoke({"messages": [HumanMessage(content=conversation_summary)]})
     return response.content
 
 

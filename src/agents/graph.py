@@ -18,38 +18,23 @@ from __future__ import annotations
 import os
 
 from dotenv import load_dotenv
-from langchain_core.messages import SystemMessage
 from langchain_openai import ChatOpenAI
 from langgraph.graph import END, MessagesState, StateGraph
 from langgraph.prebuilt import ToolNode, tools_condition
 
+from agents.prompts import get_prompt_template
 from agents.specialists import call_compliance_agent, call_escalation_agent, call_tracking_agent
 
 load_dotenv()
 MODEL = os.environ.get("AGENT_MODEL", "gpt-4o-mini")
-
-SUPERVISOR_SYSTEM_PROMPT = SystemMessage(content=(
-    "You are the supervisor for a delivery company's support chatbot. You never "
-    "answer from your own knowledge — you route to specialists and combine their "
-    "findings into one clear reply. You have three specialist tools: "
-    "call_tracking_agent, call_compliance_agent, call_escalation_agent. Call "
-    "whichever ones are genuinely needed — zero, one, or more than one — based on "
-    "the customer's message. If you don't have enough information yet (e.g. a "
-    "tracking question with no tracking number given), ask a clarifying question "
-    "instead of guessing or calling a tool anyway. Once you have what you need, "
-    "write one coherent final reply to the customer — don't just paste the "
-    "specialists' findings back verbatim. If a specialist reports that it doesn't "
-    "have an answer (e.g. the knowledge base doesn't cover something), relay that "
-    "honestly — do NOT fill the gap with your own outside knowledge, even if it "
-    "feels like common sense or you're confident it's correct."
-))
 
 _tools = [call_tracking_agent, call_compliance_agent, call_escalation_agent]
 _supervisor_llm = ChatOpenAI(model=MODEL, temperature=0).bind_tools(_tools)
 
 
 def supervisor_node(state: MessagesState) -> dict:
-    response = _supervisor_llm.invoke([SUPERVISOR_SYSTEM_PROMPT, *state["messages"]])
+    chain = get_prompt_template("supervisor") | _supervisor_llm
+    response = chain.invoke({"messages": state["messages"]})
     return {"messages": [response]}
 
 

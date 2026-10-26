@@ -21,12 +21,12 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-def _tracing_enabled() -> bool:
+def tracing_enabled() -> bool:
     return bool(os.environ.get("LANGFUSE_PUBLIC_KEY") and os.environ.get("LANGFUSE_SECRET_KEY"))
 
 
 def get_callbacks() -> list:
-    if not _tracing_enabled():
+    if not tracing_enabled():
         return []
 
     from langfuse.langchain import CallbackHandler
@@ -40,7 +40,7 @@ def session_metadata(session_id: str) -> dict:
     unrelated one-off traces. "langfuse_session_id" is the exact key Langfuse's
     LangChain integration looks for in trace metadata (confirmed against current
     Langfuse docs, not from memory)."""
-    if not _tracing_enabled():
+    if not tracing_enabled():
         return {}
     return {"langfuse_session_id": session_id}
 
@@ -54,7 +54,7 @@ def flush() -> None:
     to send its queued batch, silently losing the trace. Call this right before
     a CLI entry point exits.
     """
-    if not _tracing_enabled():
+    if not tracing_enabled():
         return
 
     from langfuse import get_client
