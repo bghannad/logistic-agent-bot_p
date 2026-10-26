@@ -1,0 +1,18 @@
+{"id": "ret_01", "query": "How much can I spend online before I have to deal with a formal customs entry instead of informal?", "expected_chunk_ids": ["cbp_internet_purchases__012", "cbp_internet_purchases__013"]}
+{"id": "ret_02", "query": "Can I bring back ivory jewelry I bought abroad?", "expected_chunk_ids": ["cbp_prohibited_restricted_items__014"]}
+{"id": "ret_03", "query": "Is it legal to import absinthe from France?", "expected_chunk_ids": ["cbp_prohibited_restricted_items__001"]}
+{"id": "ret_04", "query": "I want to bring my dog with me when I move to the US, what do I need?", "expected_chunk_ids": ["cbp_prohibited_restricted_items__030", "cbp_prohibited_restricted_items__031"]}
+{"id": "ret_05", "query": "Can I import a gun I bought overseas?", "expected_chunk_ids": ["cbp_prohibited_restricted_items__012", "cbp_prohibited_restricted_items__013"]}
+{"id": "ret_06", "query": "What happens if a package gets lost in the international mail?", "expected_chunk_ids": ["cbp_internet_purchases__005"]}
+{"id": "ret_07", "query": "My online order never showed up, can I get a refund?", "expected_chunk_ids": ["ftc_online_order_never_arrives__000", "ftc_prompt_delivery_rules__000", "ftc_prompt_delivery_rules__001"]}
+{"id": "ret_08", "query": "I think I got scammed buying something online that never arrived", "expected_chunk_ids": ["ftc_scams_orders_dont_arrive__000"]}
+{"id": "ret_09", "query": "What's the gift exemption limit for a package sent by family abroad?", "expected_chunk_ids": ["cbp_internet_purchases__005"]}
+{"id": "ret_10", "query": "Can I bring back a hunting trophy from overseas?", "expected_chunk_ids": ["cbp_prohibited_restricted_items__019"]}
+{"id": "ret_11", "query": "What's not allowed to be brought in from Cuba?", "expected_chunk_ids": ["cbp_prohibited_restricted_items__028"]}
+{"id": "ret_12", "query": "Can I travel with my prescription medication when visiting the US?", "expected_chunk_ids": ["cbp_prohibited_restricted_items__024", "cbp_prohibited_restricted_items__026"]}
+{"id": "ret_13", "query": "I bought fake designer handbags abroad, can customs seize them?", "expected_chunk_ids": ["cbp_prohibited_restricted_items__037", "cbp_prohibited_restricted_items__038"]}
+{"id": "ret_14", "query": "Can I bring fresh fruit back that I bought at a foreign airport?", "expected_chunk_ids": ["cbp_prohibited_restricted_items__018"]}
+{"id": "ret_15", "query": "My package arrived at port but nobody told me, now it's sitting in a warehouse, what happened?", "expected_chunk_ids": ["cbp_internet_purchases__008"]}
+{"id": "ret_16", "query": "Who's responsible for paying customs duty, me or the seller?", "expected_chunk_ids": ["cbp_internet_purchases__009"]}
+{"id": "ret_17", "query": "If a company can't ship my order within 30 days, what are they required to do?", "expected_chunk_ids": ["ftc_prompt_delivery_rules__000", "ftc_prompt_delivery_rules__001"]}
+{"id": "ret_18", "query": "How does CBP protect shoppers from counterfeit goods bought online from overseas sellers?", "expected_chunk_ids": ["cbp_protecting_americans_shopping_online__000"]}

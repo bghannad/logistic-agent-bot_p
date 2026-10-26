@@ -1,0 +1,18 @@
+{"id": "route_01", "message": "My tracking number is TRK1001, where is my package?", "expected_specialists": ["call_tracking_agent"]}
+{"id": "route_02", "message": "my package hasn't arrived", "expected_specialists": []}
+{"id": "route_03", "message": "Can I bring ivory jewelry into the US?", "expected_specialists": ["call_compliance_agent"]}
+{"id": "route_04", "message": "TRK1002 is stuck and I think the item inside might be banned", "expected_specialists": ["call_tracking_agent", "call_compliance_agent"]}
+{"id": "route_05", "message": "I think I'm being scammed, the seller took my money and blocked me, this feels like fraud", "expected_specialists": ["call_escalation_agent"]}
+{"id": "route_06", "message": "What's the duty threshold for formal vs informal entry?", "expected_specialists": ["call_compliance_agent"]}
+{"id": "route_07", "message": "TRK1003 says delivered but I never got it, and I'm worried this is a scam", "expected_specialists": ["call_tracking_agent", "call_escalation_agent"]}
+{"id": "route_08", "message": "Can I get a refund if my online order never showed up?", "expected_specialists": ["call_compliance_agent"]}
+{"id": "route_09", "message": "My package had an attempted delivery today, TRK1004, will they try again?", "expected_specialists": ["call_tracking_agent"]}
+{"id": "route_10", "message": "Can I redirect my shipment to a different address?", "expected_specialists": ["call_compliance_agent"]}
+{"id": "route_11", "message": "hi", "expected_specialists": []}
+{"id": "route_12", "message": "What items are prohibited to bring back from Cuba?", "expected_specialists": ["call_compliance_agent"]}
+{"id": "route_13", "message": "I paid for something online three weeks ago and it still hasn't shipped, is that legal?", "expected_specialists": ["call_compliance_agent"]}
+{"id": "route_14", "message": "where's my stuff", "expected_specialists": []}
+{"id": "route_15", "message": "TRK1001 status please", "expected_specialists": ["call_tracking_agent"]}
+{"id": "route_16", "message": "This seller scammed me, never got my order and they won't respond, I want to talk to a human", "expected_specialists": ["call_escalation_agent"]}
+{"id": "route_17", "message": "Can I bring my dog with me when I move to the US?", "expected_specialists": ["call_compliance_agent"]}
+{"id": "route_18", "message": "Is it legal to bring back absinthe from France?", "expected_specialists": ["call_compliance_agent"]}

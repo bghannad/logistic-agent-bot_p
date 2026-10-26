@@ -1,0 +1,142 @@
+SOURCE: U.S. Customs and Border Protection (CBP.gov)
+TITLE: Internet Purchases — Your Responsibility and Liability
+URL: https://www.cbp.gov/trade/basic-import-export/internet-purchases
+RETRIEVED: 2026-09-11
+STATUS: U.S. federal government work - public domain (17 U.S.C. Sec. 105)
+PAGE LAST MODIFIED (per site): Mar 06, 2024
+NOTE: Full verbatim page text, extracted from the live rendered page via browser automation. This is the single best-matching CBP source for the project's core scenario (buying from abroad, informal/formal entry thresholds, duty payment, lost packages, prohibited/restricted merchandise).
+---
+
+Home  Trade  Basic Importing and Exporting  Internet Purchases
+Trade
+Internet Purchases
+Your Responsibility and Liability
+
+The Internet has made it easy to find and purchase items from almost anywhere in the world. However, many people are discovering that getting a foreign-bought item successfully delivered to the United States is much more complicated.
+
+When goods move from any foreign country to the United States, they are being IMPORTED. There are specific rules and regulations that govern the act of importing - and they can be extremely complex and confusing - and costly.
+
+That artisan cheese from Italy may be a snap to find and buy on the Internet, but U.S. Customs and Border Protection could seize your purchase because certain regulations prohibit the importation of dairy products from particular countries without a permit.
+
+Your great auction purchase of gorgeous linen products? Depending upon the country of origin, quota restrictions could hold them up in CBP for a long time. And storage charges in such cases can be expensive.
+
+In other words, "Buyer, Beware." When you buy goods from foreign sources, you become the importer. And it is the importer - in this case, YOU - who is responsible for assuring that the goods comply with a variety of both state and federal government import regulations. Importing goods that are unsafe, that fail to meet health code requirements, or that violate quota restrictions could end up costing you quite a bit of money in fines and penalties. At the very least, such goods would be detained, and possibly destroyed, by CBP.
+
+Knowing what is admissible is just part of the story. The other part is knowing how to import. Depending upon what you are importing and its value, the procedures can be very complicated.
+
+It does not matter whether you bought the item from an established business or from an individual selling item in an on-line auction. If merchandise, used or new, is imported into the United States, it must clear CBP and may be subject to the payment of duty as well as to whatever rules and regulations govern the importation of that particular product into the United States.
+
+Checklist
+
+Keep the following questions in mind before you buy something from a foreign source. The answers will have far-reaching CBP implications (explained below) that could influence your decision to buy.
+
+Can the goods be legally imported? Are there restrictions on, or special forms required, for your purchase's importation?
+Are you buying the item(s) for your personal use or for commercial purposes?
+Will you be responsible for shipping costs? If so, you should discuss with the seller how your purchase will be shipped. The choices are freight, courier service or international postal service. If you're not careful, transportation and handling costs could far outweigh the cost of your purchase. Sometimes, the seemingly cheaper methods can be more expensive in the long run because they are more susceptible to theft, misdeliveries and logistical problems.
+You should discuss with the seller what the exact delivery arrangements will be. If the seller does not make arrangements for postal or door-to-door delivery, you will either need to hire a customs broker to clear your goods and forward them on to you, or go the port of entry and clear them yourself.
+Can you trust the seller to provide accurate information about the item being shipped in the Customs section of the shipping documents? Giving misleading or inaccurate information about the nature of the item and its value is illegal. And it is the importer - YOU - who could face legal action and fines for this violation!
+
+The following is a brief primer on the various factors that can impact the clearance of your goods through CBP.
+
+U.S. Customs and Border Protection Declarations
+
+All paperwork for sending packages internationally has a section for providing CBP information. A U.S. Customs and Border Protection Declaration is a form obtainable at most foreign post offices. This declaration form should include a full and accurate description of the merchandise, and should be securely attached to the outside of your shipment. Declaration forms vary from country to country, and they don't all ask for the information required by the U.S. Customs and Border Protection. You should ask the seller to provide the following information, whether or not it is asked for on the paperwork.
+
+Seller's name and address. Description of the item(s) in English (a legal requirement). For example, antique silver teapot, silk kimono, 18-karat gold rope necklace. It is very important that this information be detailed and accurate. What is described here will determine the classification number and duty rate that Customs assigns the item when it arrives in the United States. If this information is inaccurate, you could end up paying the wrong duty rate for what you purchased. If it is inaccurate enough to seem deliberately misleading -- keep in mind that CBP does randomly inspect packages -- your goods could be seized and you may be assessed a fine.
+Quantity of each type of item being shipped. For example, two watches (14-karat gold, 17 jewel), one leather purse.
+Purchase price in U.S. dollars. Provide both the unit price, and if more than one unit was purchased, the total value for all like items. Fudging or miscalculating the price paid for goods is a bad idea. Many sellers offer to misrepresent costs in an effort to save the purchaser from having to pay duty, but this is illegal. Others sellers are wary of package handlers and do not want them to know how valuable something may be, which could result in its theft. The most common legal precaution against theft is to insure the package when sending it. You should discuss insurance options with your seller, keeping in mind that misrepresenting the value of an item on the Customs declaration is illegal.
+Weight of the item(s).
+Country of origin of the product itself. Be aware that this is not necessarily the country where the item was purchased.
+
+Note: It is important to know that foreign shipments that are not accompanied by a U.S. Customs and Border Protection declaration form and an invoice may be subject to seizure, forfeiture or return to sender.
+
+Postal Service, Couriers and Freight
+
+There are three ways goods can be sent to you from abroad. In order to avoid costly problems, you and the seller of your goods should agree on which will be used the international postal service, a courier service, or freight carriers.
+
+International Postal Service: Merchandise shipped through the international postal service is forwarded upon its arrival in the United States to one of U.S. Customs and Border Protection International Mail Branches for clearance. If the item is less than $2,500 in value and is not subject to a quota or is not a restricted or prohibited item, a CBP official will usually prepare the paperwork for importing it, assess the proper duty, and release it for delivery. This procedure is generally referred to as a mail entry. Packages whose declared value is under $800 ($100 in the case of articles sent as bona fide gifts from persons in foreign countries to persons in the United States and $200 in the case of articles sent as bona fide gifts from persons in the Virgin Islands, Guam, and American Samoa) will generally be cleared without any additional paperwork prepared by CBP. However, CBP always reserves the right to require a formal entry for any importation and generally exercises this option if there is something unusual about the importation, or if important documents such as an invoice or bill of sale do not accompany the item.
+
+If any duty is owed, CBP will charge a processing fee for clearing your package. Duty and the processing fee are usually paid at your local post office, where your package is forwarded.
+
+Hint: To speed a package through CBP examination at a port's International Mail Branch, the seller should affix a completed CN 22 or CN 23 (U.S. Customs and Border Protection Declaration Form) to the outside of the package. This form may be obtained at local post offices worldwide.
+
+Plus: Pretty economical.
+
+Pitfalls: If the item's value is more than $2,500, it may be held at the mail facility until you can arrange for a formal entry. This may require either hiring a customs broker to clear your goods or you may file the paperwork yourself.
+
+Lost packages are hard to find. Since most packages sent through the mail do not have tracking numbers unless they are insured or you've paid to have a tracking number, it can be impossible to trace a "lost" package. If a package is lost a "tracer" should be initiated by the sender of the package.
+
+Courier Shipping: Goods shipped by courier, express, or other commercial service usually are expedited through CBP by a customs broker hired by that commercial service and then delivered seamlessly to your door. Customs brokers are not CBP employees. There are a number of different charges associated with these services, including shipping and handling, the fees charged by the service for clearing the merchandise through CBP, as well as any Customs duty and processing fees that may be owed on your importation.
+
+Pluses: Get seamless delivery. All you have to do is sign for the package when it arrives. In most cases delivery is quick and reliable. When there's a problem, there is a tracking number that can help resolve the matter.
+
+Pitfalls: Many people have found the various charges and fees levied to be higher than they expected, and sometimes exceed the cost of their purchase(s).
+
+Buyers often have the misunderstanding that when the purchase price includes shipping and handling, all the costs associated with clearing the package through CBP are covered by the seller. They don't realize that brokers fees and CBP duties may be an additional charge that the buyer is responsible for.
+
+Freight Shipping: Merchandise shipped by freight can arrive in the United States at an air, sea or land port. If your goods are being shipped by freight, you should ask the seller to instruct the freight company to forward them to your doorstep, which may entail the shipper's use of a customs broker to clear your goods. Alternatively, ask that the goods be forwarded to a port of entry near where you live so that you can clear or "enter" them yourself (advisable only if the shipment is under $2000 in value. See Formal Entry below.)
+
+Pluses: Can be economical, particularly, if you're prepared to handle the logistics of clearing the goods through Customs yourself. Also, the best way to handle large bulky purchases.
+
+Pitfall: If the freight company has not been instructed to forward your goods, they could end up sitting on the dock at the port where they first entered the country.
+
+Heads-Up
+
+U.S. Customs and Border Protection does not inform importers of the arrival of cargo or freight. When cargo or freight arrives at a U.S. port of entry, it is the responsibility of the shipper or a designated agent to inform the importer of its arrival. However, proper notification does not always happen, particularly, if the shipper has incomplete contact information for you, the importer. Therefore, it is important to find out the scheduled arrival date of your import and follow-up.
+
+If you are not notified that your goods have arrived and you or your broker have not presented the proper paperwork to CBP within 15 days of your goods' arrival, your goods will be transferred to a warehouse, and you will be liable for storage charges. If you have not claimed your goods within six months of their arrival in the USA, they could be sold at auction. (See the Checklist under item #3.)
+
+Importing Process Paying Duty: The importer is ultimately responsible for paying any duty owed on an import. Determining duty can be very complicated, and while shipping services will often give an estimate for what the duty rate on an item might be, only CBP can make a final determination about what is owed. You should not be misled into thinking your purchase price includes duty because the seller cannot say with absolute certainty what the duty will be. As a rule, a purchase price that includes shipping and handling does not include duty or any costs associated with clearing the goods through CBP. First time importers are often surprised by bills they receive for duty, U.S. Customs and Border Protection merchandise processing fee, and something referred to as "customs fees," which are actually charges for the services of the broker who cleared your goods through CBP.
+
+How you pay duty depends on how your goods were shipped. If your goods were shipped through the International Postal Service, you will need to pay the mail carrier and/or go to your local post office to pay any duty and processing fees owed when your package arrives at that post office. If your goods were sent by a courier service, that service will either bill you for the duty they paid on your behalf or require payment on delivery.
+
+If your goods were sent by freight, there are two possible scenarios for paying duty.
+
+If no arrangements were made to forward the goods to your door, you will need to either clear them through CBP yourself, in which case you will pay duty directly to CBP at the port where your goods arrived. Alternatively, you will need to arrange for a broker to clear your goods. If you hire a broker, they will bill you for their services and any duty they paid on your behalf.
+
+If arrangements were made to forward your goods to you, you will be billed for any duty owed, and for the services of the broker who cleared them through CBP.
+
+Reminder: U.S. Customs and Border Protection holds the importer - YOU - liable for the payment of duty not the seller.
+Personal vs. Commercial Use: Many import regulations only apply to goods imported for commercial - business or resale - purposes. For instance, most goods imported for personal use are not subject to quota. The one exception to this is made-to-measure suits from Hong Kong, which are subject to quota restrictions regardless of the use they are imported for. On the other hand, import restrictions that are based on health, safety and protecting endangered species apply across the board.
+
+Note: U.S. Customs and Border Protection is authorized to make judgment calls about what qualifies as personal use. Several suits that are identical or a number of very similar handbags will have a hard time passing the credibility test as items for personal use.
+
+For Commercial Purposes: Goods imported for commercial purposes must comply with a variety of special requirements, such as marking of country of origin, which vary depending upon the particular commodity. Please see our publication, "Importing Into the United States," for more detailed information. Be particularly aware that an invoice should always accompany commercial shipments.
+
+Informal Entries: If the value of your purchase(s) is less than $2500 and your goods are being shipped by mail or freight, they may, in most cases, be imported as an informal entry. However, there are exceptions to this. For instance, if the importation is determined to be for commercial purposes, the value limit for filing an informal entry for many textile items is either $250 or $0 - depending on whether or not the item is subject to Quota (see below). Clearing goods through CBP as an informal entry is less arduous a process than clearing them by filing a formal entry. Essentially, when goods are cleared as an informal entry, CBP will prepare the paperwork, including determining the classification number and duty rate for your merchandise.
+
+The duty rate for many items typically bought in an on-line auction is zero, however, CBP may charge a small processing fee for mail imports that do require the payment of duty.
+
+If your goods are sent by a courier or express service, their brokers will usually handle the paperwork, and bill you for their services. If your goods are being shipped by freight, and you want to clear them through CBP yourself, be sure the shipping company has instructions to deliver them to a port near you. Otherwise, you will need to arrange for someone else to clear the goods for you when they arrive. Your alternative is to ask the seller to make arrangements to have your goods forwarded to your door, in which case you should expect to pay for the services of the customs broker who coordinates this when your goods arrive in the U.S.A.
+
+Formal Entries: If your goods are valued at more than $2500, or for commercial textile shipments (clothes/materials) regardless of value, you will be required to file a formal entry, which can require extensive paperwork and the filing of a U.S. Customs and Border Protection bond. As mentioned above and for various reasons, CBP may require a formal entry for any importation. CBP, however, rarely exercises this right unless there is a particular concern about the circumstances surrounding an importation.
+
+Because filing a formal entry can be complicated, the U.S. Customs and Border Protection recommends importers consider hiring a customs broker to complete the transaction. Lists of brokers can be found on the port pages of CBP web site.
+
+One of the most difficult things about filing formal entries is accurately identifying the correct classification number of the item being imported. The Harmonized Tariff Schedule of the United States (HTSUS) lists classification numbers for every conceivable item under the Sun. The HTSUS is the size of an unabridged dictionary, and specialists train for months to learn how to correctly classify goods.
+
+The classification number of an item determines many requirements pertaining to that item's importation such as its duty rate, eligibility for special import programs like the Generalized System of Preferences (GSP) or the North American Free Trade Agreement (NAFTA), and whether or not the item is subject to quota restrictions.
+
+Failure to correctly classify an item can result in fines and/or delays in delivery. You may write to U.S. Customs and Border Protection for a binding ruling, and/or contact an import specialist at your local port for help to identify the proper classification number for your imported item.
+
+Quota: Many kinds of goods imported for commercial use may be subject to a quota limit. It is the classification number of the article as identified in the Harmonized Tariff Schedule of the United States and the country of origin that determine whether or not an item is subject to quota requirements.
+
+In some cases, the quota is absolute, meaning that once the quota is filled - because the quota has reached its limit for that particular period of time - no additional quantities of that item may be imported until the next open period. Such merchandise must be warehoused or exported. Other quotas are tariff-related, which means that a certain quantity of goods may enter at a low rate of duty, but once that threshold is reached - during a specified period of time - a higher duty rate will be assessed for any additional quantities of that particular imported good. Unlimited quantities of some merchandise subject to tariff-rate quota may, however, enter at over the quota rates.
+
+If you are importing goods for commercial use or resale, it's a good idea to contact your local port of entry for more specific information.
+
+Fill levels for quotas are currently posted on the CBP Electronic Bulletin Board in the file called Quota Threshold Status. Fill levels for textile items can be found in the Quota section of Importing/Exporting.
+
+The Quota program is generally applied only to commercial importations. While the importation of many goods imported under "personal use" quantities are not affected by quota restrictions, there is one exception; made-to-measure suits made in Hong Kong, which are restricted for both personal and commercial use.
+
+Prohibited Merchandise: Purchasers should also be aware that some products might be considered contraband and cannot be brought into the United States under any circumstances. This includes the obvious, such as narcotics and child pornography, as well as less obvious items such as tainted food products, and other items, a list of which can be found in "Importing Into the United States." Such merchandise can be seized by CBP, and attempts to import it may subject the importer to civil or even criminal sanctions. If you have any question at all about your purchase, you should contact your closest CBP port and get an opinion before you complete the transaction.
+Restricted Merchandise: Many items cannot be imported into the United States unless the importer has the proper permit or license from the appropriate regulatory authority. Some of the most common restricted items include food, plant and dairy products; alcohol and tobacco products; birds, fish or animals and products thereof, goods from embargoed countries, firearms and ammunition, cultural artifacts from certain countries, and copyrighted materials.
+
+The entry of prescription medicines is restricted and subject to the approval of the U.S. Food and Drug Administration (FDA). Depending on the FDA review of the medicine, it may be released to the addressee or seized. There are, however, provisions allowing passengers to hand carry prescription drugs into the United States if they enter through a land border with Canada or Mexico.
+
+Electronic Transmission Information: Materials downloaded from the Internet are not subject to duty. This applies to any goods or merchandise that are electronically transmitted to the purchaser, such as CDs, books, or posters. However, the unauthorized downloading of copyrighted items could subject you to prosecution. Downloading child pornography is also a crime. U.S. Customs and Border Protection has the authority to investigate and prosecute persons involved in this and other illegal activities.
+Exporting
+
+If you are sending goods to someone outside the United States, you should be aware that most countries have similar regulations governing the importation of goods into their territory. If you are selling goods on a "Payment on Delivery" basis, you might want to contact the Customs authority of the country where the goods are being shipped to make sure they can legally be imported into that country. In addition, some commodities sold for export are subject to enforcement requirements of U.S. Customs and Border Protection and other U.S. government agencies. In particular, cars and goods with potential military applications, including some electronics and software, must be cleared through CBP before they are exported. And if you export goods worth more than $2,500, you will have to follow formal export procedures.
+
+Last Modified: Mar 06, 2024

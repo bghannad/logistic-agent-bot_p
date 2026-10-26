@@ -1,0 +1,37 @@
+SOURCE: Federal Trade Commission (FTC) — Business Guidance
+TITLE: Selling on the Internet: Prompt Delivery Rules
+URL: https://www.ftc.gov/business-guidance/resources/selling-internet-prompt-delivery-rules
+RETRIEVED: 2026-09-11
+STATUS: U.S. federal government work - public domain (17 U.S.C. Sec. 105)
+ORIGINALLY PUBLISHED: October 2001 (FTC business-guidance resource page, republished/current as of retrieval)
+NOTE: Verbatim page body (site tags/file-download line and "Return to top" trimmed).
+---
+
+The Internet is the fastest growing source of mail order sales. It's estimated that consumers spent $200 billion on Internet-based goods and services in 2008. The explosive growth in the goods and services sold online has in the past, taken many online sellers by surprise: demand has outpaced supply, depleting inventories and disappointing customers. The Federal Trade Commission is advising online merchants to review their obligations under the Mail or Telephone Order Merchandise Rule to better serve their customers.
+
+The Rule spells out the ground rules for making promises about shipments, notifying consumers about unexpected delays, and refunding consumers' money. Enforced by the FTC, the Mail or Telephone Order Rule applies to orders placed by phone, fax or the Internet. Your compliance can have bottom line benefits for your company - that is, satisfied customers are repeat customers.
+
+Complying With The Rule
+
+By law, you must have a reasonable basis for stating that a product can be shipped within a certain time. If your advertising doesn't clearly and prominently state the shipment period, you must have a reasonable basis for believing that you can ship within 30 days.
+
+If you can't ship within the promised time (or within 30 days if you made no promise), you must notify the customer of the delay, provide a revised shipment date and explain his right to cancel and get a full and prompt refund.
+
+For definite delays of up to 30 days, you may treat the customer's silence as agreeing to the delay. But for longer or indefinite delays - and second and subsequent delays - you must get the customer's written, electronic or verbal consent to the delay. If the customer doesn't give you his okay, you must promptly refund all the money the customer paid you without being asked by the customer.
+
+Finally, you have the right to cancel orders that you can't fill in a timely manner, but you must promptly notify the customer of your decision and make a prompt refund.
+
+Running Late? Overwhelmed with Orders?
+
+The Rule gives you several ways to deal with an unexpected demand.
+
+You can change your shipment promises up to the point the consumer places the order, if you reasonably believe that you can ship by the new date. The updated information overrides previous promises and reduces your need to send delay notices. Be sure to tell your customer the new shipment date before you take the order.
+You must provide a delay option notice if you can't ship within the originally promised time. The Rule lets you use a variety of ways to provide the notice, including e-mail, fax or phone. It's a good idea to keep a record of what your notice states, when you provide it, and the customer's response.
+
+For More Information
+
+Contact the FTC’s Consumer Response Center for the complete Business Guide to the Mail or Telephone Order Merchandise Rule and Advertising and Marketing on the Internet: Rules of the Road.
+
+The FTC works for the consumer to prevent fraudulent, deceptive, and unfair business practices in the marketplace and to provide information to help consumers spot, stop, and avoid them. To file a complaint or to get free information on consumer issues, visit ftc.gov or call toll-free, 1-877-FTC-HELP (1-877-382-4357); TTY: 1-866-653-4261. The FTC enters consumer complaints into the Consumer Sentinel Network, a secure online database and investigative tool used by hundreds of civil and criminal law enforcement agencies in the U.S. and abroad.
+
+October 2001
